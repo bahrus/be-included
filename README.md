@@ -1,7 +1,7 @@
 # be-included [🛐] [TODO]
 
 
-*be-included* enables weaving templates together.  
+*be-included* enables weaving templates together. It is a close relative to [be-imbued](https://github.com/bahrus/be-imbued). *be-imbued* **pushes** DOM elements into another.  *be-included*, instead, *pulls* in DOM elements from elsewhere, following  similar "syntax". 
 
 [![Playwright Tests](https://github.com/bahrus/be-included/actions/workflows/CI.yml/badge.svg?branch=baseline)](https://github.com/bahrus/be-included/actions/workflows/CI.yml)
 [![Published on webcomponents.org](https://img.shields.io/badge/webcomponents.org-published-blue.svg)](https://www.webcomponents.org/element/be-included)
